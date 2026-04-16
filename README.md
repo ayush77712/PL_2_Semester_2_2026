@@ -7,7 +7,7 @@
 
 # Student Details
 
-**Name:** Advait Pravin Raut  
+**Name:** Ayush Vivek Thakare   
 **Division:** SOC - 03  
-**Roll No.:** 07  
-**Enrollment Number:** `Can't write here for privacy concerns`
+**Roll No.:** 24  
+**Enrollment Number:** ADT25SOCB0319`Can't write here for privacy concerns`
